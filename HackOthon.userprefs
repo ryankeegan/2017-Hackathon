@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\gfgrdgjfjg.shader">
+    <Files>
+      <File FileName="Assets\Scripts\KineticMovement.cs" Line="40" Column="13" />
+      <File FileName="Assets\callMe.cs" Line="13" Column="78" />
+      <File FileName="Assets\Scripts\CanvasManager.cs" Line="30" Column="29" />
+      <File FileName="Assets\Scripts\CameraRaycasting.cs" Line="24" Column="35" />
+      <File FileName="Assets\GoogleVR\Scripts\EventSystem\InputModule\GvrPointerInputModule.cs" Line="157" Column="19" />
+      <File FileName="Assets\Scripts\YelpResponse.cs" Line="15" Column="28" />
+      <File FileName="Assets\Scripts\Yelp.cs" Line="41" Column="34" />
+      <File FileName="Assets\gfgrdgjfjg.shader" Line="52" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
